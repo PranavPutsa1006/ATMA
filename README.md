@@ -1,3 +1,3 @@
 # ATMA
-Amrita Tourism Management Application\n
+Amrita Tourism Management Application  
 A Tourism Managament Web Application
